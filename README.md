@@ -19,7 +19,7 @@
 | **love2.html** | [Xem tại đây]() | Hiệu ứng trái tim bay khi nhấp chuột |
 | **love-add2.html** | [Xem tại đây]() | Hiệu ứng trái tim với hình nền |
 | **love-add3.html** | [Xem tại đây]() | Hiệu ứng trái tim nhảy theo nhịp |
-| **love3.html** | [Xem tại đây]() | Hiệu ứng chữ bay trên màn hình |
+| **love3.html** | [Xem tại đây](https://trinhkhanh29.github.io/LOVE-CODE-VN/love-code/love3.html) | Hiệu ứng chữ bay trên màn hình |
 | **love4.html** | [Xem tại đây](https://trinhkhanh29.github.io/LOVE-CODE-VN/love-code/love4.html) | Hiệu ứng chữ rơi ngẫu nhiên như mã hacker |
 | **love5.html** | [Xem tại đây]() | Hiệu ứng trái tim 3D nhảy + hiển thị chữ |
 | **love6.html** | [Xem tại đây]() | Hiệu ứng trái tim đỏ nhảy theo nhịp |
